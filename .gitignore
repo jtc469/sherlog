@@ -1,2 +1,8 @@
-.venv/
 data/
+models/
+scratch/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+*.duckdb.wal
