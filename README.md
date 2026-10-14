@@ -1,0 +1,2 @@
+# sherlog
+data/
